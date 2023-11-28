@@ -23,7 +23,7 @@
 1. Склонировать с помощью Git репозиторий на локальный компьютер командой:
 
    ```
-   "git clone https://github.com/TAlekseyS/DiplomTA.git"
+   git clone https://github.com/TAlekseyS/DiplomTA.git
    ```
 2. Запустить Docker Desktop.
 3. Запустить IntelliJ IDEA и в нем открыть проект.
